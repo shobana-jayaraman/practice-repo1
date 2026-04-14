@@ -1,3 +1,9 @@
-Revenue Growth: 15%
-Costs: 3%
-Margin: 45%
+Revenue Growth: 8% YoY for 5 years  (Adjusted from 15% - too aggressive)
+Cost Growth: 5% annually (Adjusted for inflation)
+Operating Margin: 25% (More realistic vs industry)
+Sensitivity Analysis: Added recommendation
+
+Reviewer Comments:
+- Original growth assumption was not realistic
+- Margin assumption significantly above industry benchmarks
+- Missing downside scenario analysis
